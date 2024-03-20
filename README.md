@@ -2,6 +2,7 @@
 [Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTNkZTBmYmUtM2IzYi00YzczLTk2NWYtYmY0ZjgyN2YzNzVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 **Project Objective** - We need to analyze key indicators for our sales data to gain insights into our business performance
+The project aims to address the critical necessity of analyzing key indicators within their pizza sales data in order to obtain actionable insights into their business performance. The primary objective is to formulate a structured and data-driven approach that facilitates a thorough examination of relevant metrics, ultimately providing a comprehensive understanding of their business dynamics. This project will serve as a strategic initiative to enhance decision-making processes, optimize operational efficiency, and drive overall business success in the highly competitive pizza market.
 
 
 **KPI’s Requirement**  
@@ -38,7 +39,6 @@ We want to calculate following metrics
 3.Maximum orders for classic pizza 
 4.Maximum revenue  contributed from chicken pizza 
 5.Brie carre pizza is contributed minimum revenue amongst all.
-
 
 
    

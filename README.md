@@ -25,10 +25,11 @@ We want to calculate following metrics
 7.	Bottom 5 Sellers by Revenue, Total Quantity and Total Orders
 
 **Learned from this Project**
-1.	Data Cleaning 
-2.	Data Transforming 
-3.	Used DAX
-4.	Created appealing visuals and created dashbaord
+1.  Extracted the sql queries as per requirement  
+2.	Data Cleaning 
+3.	Data Transforming 
+4.	Used DAX
+5.	Created appealing visuals and created dashbaord
 
 **Some Insights**
 

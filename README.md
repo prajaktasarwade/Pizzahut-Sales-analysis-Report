@@ -1,7 +1,12 @@
-# Pizzahut-Sales-analysis-Report
+## Pizzahut-Sales-analysis-Report
 [Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTNkZTBmYmUtM2IzYi00YzczLTk2NWYtYmY0ZjgyN2YzNzVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-**Project Objective** - We need to analyze key indicators for our sales data to gain insights into our business performance
+**Screenshot of Dashbaord**
+![image](https://github.com/prajaktasarwade/Pizzahut-Sales-analysis-Report/assets/25735962/a81a5372-d3a4-4476-943d-d6d327e37cab)
+![image](https://github.com/prajaktasarwade/Pizzahut-Sales-analysis-Report/assets/25735962/96e06045-f5b4-4a48-99cd-f392a25f0f76)
+
+**Project Objective** - 
+We need to analyze key indicators for our sales data to gain insights into our business performance
 The project aims to address the critical necessity of analyzing key indicators within their pizza sales data in order to obtain actionable insights into their business performance. The primary objective is to formulate a structured and data-driven approach that facilitates a thorough examination of relevant metrics, ultimately providing a comprehensive understanding of their business dynamics. This project will serve as a strategic initiative to enhance decision-making processes, optimize operational efficiency, and drive overall business success in the highly competitive pizza market.
 
 
